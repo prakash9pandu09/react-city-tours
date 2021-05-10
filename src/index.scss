@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBlack : #222;
+$mainGreen : #82b304;
+$mainWhite: #fff;
+$mainGrey: #ececec;
+
+body{
+    background-color: $mainGrey;
+    color: $mainGreen;
+    font-family: 'Caveat',
+    cursive;
+}
